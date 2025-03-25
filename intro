@@ -31,3 +31,5 @@ Advantages of GitHub:
 
 
 GitHub Apps are tools that extend GitHub's functionality. GitHub Apps can do things on GitHub like open issues, comment on pull requests, and manage projects. They can also do things outside of GitHub based on events that happen on GitHub. For example, a GitHub App can post on Slack when an issue is opened on GitHub.
+GitHub is a platform for version control and collaboration, mainly used by software developers to manage and share their code. It is based on Git, a version control system that tracks changes to files over time, allowing multiple people to work on the same project without conflicting changes.
+
