@@ -26,3 +26,8 @@ Advantages of GitHub:
 -pulls request enable reviewing and merging code efficiently
 -HELPS IN BRANCHING AND MERGING
 -hosts millions of open source project
+
+
+
+
+GitHub Apps are tools that extend GitHub's functionality. GitHub Apps can do things on GitHub like open issues, comment on pull requests, and manage projects. They can also do things outside of GitHub based on events that happen on GitHub. For example, a GitHub App can post on Slack when an issue is opened on GitHub.
